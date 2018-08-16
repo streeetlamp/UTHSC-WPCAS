@@ -24,7 +24,7 @@ $phpcas_path = '../phpCAS-1.3-stable/';
 ///////////////////////////////////////
 
 // Full Hostname of your CAS Server
-$cas_host = 'auth.uthsc.edu';
+$cas_host = 'login.vcu.edu';
 
 // Context of the CAS Server
 $cas_context = '/cas';
